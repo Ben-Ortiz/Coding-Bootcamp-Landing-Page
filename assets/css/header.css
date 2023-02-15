@@ -1,7 +1,8 @@
 .header-container {
     display: flex;
     justify-content: space-between;
-    background-color: lightblue;
+    align-items: center; 
+    background-color: rgb(149, 143, 239);
     position: absolute;
     top: 0;
     left: 0;
@@ -9,7 +10,7 @@
 }
 
 .header-logo {
-    height: 20px;
+    height: 100px;
 }
 
 .header-title {
@@ -17,12 +18,24 @@
     font-size: 20px;
 }
 
+.header-right-section {
+    margin-bottom: 12px;
+    /* background-color: lightgreen; */
+}
+
 .header-about {
     text-decoration: none;
-    background-color: lightblue;
+    /* background-color: lightblue; */
+    color: white;
+    margin-right: 25px;
+    font-size: 20px;
+
 }
 
 .header-signup {
     text-decoration: none;
-    background-color: lightpink;
+    /* background-color: lightpink; */
+    color: white;
+    margin-right: 100px;
+    font-size: 20px;    
 }
