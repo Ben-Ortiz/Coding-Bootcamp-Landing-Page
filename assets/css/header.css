@@ -10,7 +10,7 @@
 }
 
 .header-logo {
-    height: 100px;
+    height: 75px;
     margin-left: 50px;
 }
 
@@ -20,7 +20,7 @@
 }
 
 .header-right-section {
-    margin-bottom: -13px;
+    margin-bottom: -5px;
     /* background-color: lightgreen; */
 }
 
