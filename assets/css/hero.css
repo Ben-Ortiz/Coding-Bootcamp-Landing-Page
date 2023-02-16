@@ -5,33 +5,38 @@
 }
 
 .hero-left-image {
-    height: 400px;
+    height: 450px;
 }
 
 .hero-right-section-container {
-    width: 25%;
+    width: 27%;
     margin-left: 5%;
     margin-top: -2%;
     
 }
 
 .hero-intro {
-    font-size: 3rem;
+    font-size: 4rem;
     font-weight: bold;
     margin-bottom: 0px;
 }
 
 .hero-description {
-    font-size: 1.2rem;
+    font-size: 1rem;
 }
 
 .hero-btn {
     border: none;
-    padding: 10px;
+    padding: 16px;
+    font-size: 16px;
     color: white;
     background-color: rgb(3, 0, 40);
+    opacity: 0.8;
+    transition: 0.2s;
 }
 
 .hero-btn:hover {
     cursor: pointer;
+    background-color: rgb(10, 0, 117);
+    opacity: 1;
 }
