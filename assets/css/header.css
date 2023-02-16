@@ -8,7 +8,6 @@
     left: 0;
     right: 0;
     z-index: 1;
-    
 }
 
 .header-logo {
@@ -20,6 +19,7 @@
     margin-bottom: -5px;
 }
 
+.header-home,
 .header-about,
 .header-curriculum,
 .header-dates,

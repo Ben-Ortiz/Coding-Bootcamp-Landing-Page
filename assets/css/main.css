@@ -43,3 +43,11 @@
     background-color: rgb(10, 0, 117);
     opacity: 1;
 }
+
+.about {
+    position: relative;
+    background-color: lightgreen;
+    height: 600px;
+    /* gap: 1.5rem; */
+    margin: 15rem 0;
+}
