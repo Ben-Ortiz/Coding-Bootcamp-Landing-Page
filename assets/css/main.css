@@ -46,7 +46,7 @@
 
 .about {
     position: relative;
-    background-color: lightgreen;
+    /* background-color: lightgreen; */
     height: 600px;
     /* gap: 1.5rem; */
     margin: 15rem 0;
