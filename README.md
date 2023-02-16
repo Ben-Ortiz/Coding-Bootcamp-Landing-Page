@@ -1,4 +1,4 @@
-# Coding-Bootcamp-Landing-Page
+# Coding Bootcamp Landing Page
 This a landing page for a fictional bootcamp I have created called, Dev Reactor.   
 
 # Sample Website
