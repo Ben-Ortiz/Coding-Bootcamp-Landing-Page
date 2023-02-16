@@ -10,6 +10,7 @@ HTML. CSS
 # Tools Used
 * [Looka](https://looka.com/), an AI tool that made my logo
 * [remove.bg](https://www.remove.bg/upload), a tool that removed background of my logo
+* [Github Pages](https://pages.github.com/), a tool within Github that allows me to host a live site of this repo
 
 # Folder Structure
 The index.html and readme files are in the root folder, alongside the screenshot included in the readme.
