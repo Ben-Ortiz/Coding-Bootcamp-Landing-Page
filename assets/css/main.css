@@ -80,9 +80,10 @@
     height: 50px;
     width: 200px;
     border: 0;
-    border-radius: 3px;
+    border-radius: 2px;
     color: gray;
     transition: 0.2s;
+    font-size: 1rem;
 }
 
 .about-button:hover {
