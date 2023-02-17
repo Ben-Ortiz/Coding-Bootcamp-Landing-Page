@@ -45,9 +45,52 @@
 }
 
 .about {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     position: relative;
     /* background-color: lightgreen; */
     height: 600px;
     /* gap: 1.5rem; */
     margin: 15rem 0;
+}
+
+.about-container {
+    display: flex;
+    justify-content: center;
+
+    border-color: black;
+    border-radius: 20px;
+    width: 1200px;
+    height: 450px;
+    box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+}
+
+.about-button-container {
+    position: relative;
+    flex-wrap: nowrap;
+    justify-content: center;
+    height: 50px;
+    margin-top: 3rem;
+    /* trick to remove space between buttons, make font-size 0 of parent container of buttons */
+    font-size: 0; 
+}
+
+.about-button {
+    height: 50px;
+    width: 200px;
+    border: 0;
+    border-radius: 3px;
+    color: gray;
+    transition: 0.2s;
+}
+
+.about-button:hover {
+    cursor: pointer;
+}
+
+.about-button:focus {
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
 }
