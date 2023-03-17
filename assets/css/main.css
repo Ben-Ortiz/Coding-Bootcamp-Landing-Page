@@ -105,11 +105,13 @@
     /* align-items: center; */
     height: 50px;
     margin-top: 10rem;
+    
 }
 
 .section {
     display: none;
     background-color: lightpink;
+    transition: 0.2s;
 }
 
 .active {
