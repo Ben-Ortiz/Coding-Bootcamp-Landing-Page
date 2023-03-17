@@ -64,9 +64,11 @@
     width: 1200px;
     height: 450px;
     box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+    /* background-color: lightpink; */
 }
 
 .about-button-container {
+    display: flex;
     position: relative;
     flex-wrap: nowrap;
     justify-content: center;
@@ -94,4 +96,22 @@
     background-color: blue;
     color: white;
     border-radius: 5px;
+}
+
+.section-container {
+    background-color: lightgreen;
+    position: absolute;
+    /* justify-content: center; */
+    /* align-items: center; */
+    height: 50px;
+    margin-top: 10rem;
+}
+
+.section {
+    display: none;
+    background-color: lightpink;
+}
+
+.active {
+    display: block;
 }
