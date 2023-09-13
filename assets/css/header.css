@@ -1,0 +1,38 @@
+.header-container {
+    display: flex;
+    position: sticky;
+    justify-content: space-between;  
+    align-items: center; 
+    background-color: rgb(3, 0, 40);
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+}
+
+.header-logo {
+    height: 75px;
+    margin-left: 50px;
+}
+
+.header-right-section {
+    margin-bottom: -5px;
+}
+
+.header-home,
+.header-about,
+.header-curriculum,
+.header-dates,
+.header-schedule-options {
+    text-decoration: none;
+    color: white;
+    margin-right: 25px;
+    font-size: 1rem;
+}
+
+.header-signup {
+    text-decoration: none;
+    color: white;
+    margin-right: 100px;
+    font-size: 1rem;    
+}
