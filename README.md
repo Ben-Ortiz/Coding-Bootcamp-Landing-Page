@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# Coding-Bootcamp-Landing-Page
-This a landing page for a bootcamp I have created called, Ben's Awesome coding bootcamp asdfasdf.   
-In this bootcamp you will learn all the skills you need to know to become market-ready to be a fullstack software developer.
-=======
 # Coding Bootcamp Landing Page
 This a landing page for a fictional bootcamp I have created called, Dev Reactor.   
 
@@ -21,4 +16,3 @@ HTML. CSS
 The index.html and readme files are in the root folder, alongside the screenshot included in the readme.
 
 The assets folder contains the CSS and JavaScript files, all images and icons used, in their respective folders.
->>>>>>> bc534fac9e912cfe5b4e8705bd8bc84415979763
